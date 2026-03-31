@@ -1,14 +1,27 @@
 YOU NEED EXECUTOR FOR SCRPT (KEYLESS)
 
->Aim:
+>COMBAT:
 -aimbot
+-triggerbot/autoshoot
+-teamcheck
 -wallcheck
 -smooth
 -aimfov
 
->Esp
--esp
--name esp
+>VISUALS
+-Highlight Esp
+-Box Esp
+-Skeleton Esp
+-Line Tracers
+-Bullet Tracers
+-Fov Circle
+-Text info Esp
+-Camera Fov Changer
+
+>EXPLOITS
+-Anti-aim/spinbot
+-Air Stuck
+-Fly
 
 Status:Undetected if you have a good executor🟢
 
